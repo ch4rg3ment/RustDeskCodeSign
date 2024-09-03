@@ -1,0 +1,2 @@
+# RustDeskCodeSign
+Sign your code
